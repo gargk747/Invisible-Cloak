@@ -15,7 +15,7 @@
 
 # Requirements
 
- OpenCV will be used for image processing part i.e. to start the camera, read each frame in code, color detection, color masking, and streaming final result
- Numpy will be used to deal with arrays as images in python are a series of Numpy array
+ 1. OpenCV will be used for image processing part i.e. to start the camera, read each frame in code, color detection, color masking, and streaming final result
+ 2.Numpy will be used to deal with arrays as images in python are a series of Numpy array
 
 ![alt text](https://github.com/sdas969/Invisible-Cloak/raw/master/1_zAHne2Liz8RpCfTgqbCwYw.gif)
